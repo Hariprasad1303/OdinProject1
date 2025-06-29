@@ -27,7 +27,7 @@
 }
 .logo-heading{
     position: absolute;
-    top:9%;
+    top:3%;
     left:0;
     height: 200px;
     width:100%;
@@ -81,7 +81,6 @@
     grid-column:2/4 ;
     background-color: rgb(127, 191, 255);
     background-color: white;
-    border: 2px solid black;   
 }
 form{
     padding: 20px 40px;
