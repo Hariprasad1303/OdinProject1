@@ -125,5 +125,27 @@ input[type="password"]:hover{
 .account{
     grid-row: 3/4;
     grid-column:2/4 ;
-    background-color: rgb(96, 203, 167);
+    background-color: rgb(251, 253, 255)
+}
+.account button{
+    padding: 10px 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #fff;
+    background-color: #596D48;
+    border-radius: 10px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.account-info{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.account-info a{
+    text-decoration: none;
+    color:#596D48;
+    font-size: 18px;
+    font-weight: 600;
 }
